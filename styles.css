@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+
+.image{
+	width:30px;
+	height:15px;
+	object-fit:cover;
+}
+
+.item2{
+	/* align-items:center; */
+	background-color:orange;
+	color:white;
+	border-radius:15px;
+	padding:1px;
+}
